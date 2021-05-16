@@ -6,7 +6,7 @@ Made with Quentin CAMILLERI, Lucas TESNIER and Thomas PRUDHOMME
 
 Rule of our project:
 
-"This project is one of the freest project of your first year. Create your own RPG.
+This project is one of the freest project of your first year. Create your own RPG.
 
 Your main challenge for this game will be to create a complete product using everything that you and your
 team know.
@@ -27,7 +27,7 @@ your game.
      - Having a pleasant user interface.
      - Create a coherent universe (visual assets, audio assets, scenario, . . .)
      - Create a funny game where the player has at least one goal.
-     - Create a game with a beginning and an end."
+     - Create a game with a beginning and an end.
 
 
 
