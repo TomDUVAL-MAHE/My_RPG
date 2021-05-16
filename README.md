@@ -3,6 +3,7 @@ Make a rpg game in CSFML
 
 Made with Quentin CAMILLERI, Lucas TESNIER and Thomas PRUDHOMME
 
+
 Rule of our project:
 
 "This project is one of the freest project of your first year. Create your own RPG.
@@ -27,6 +28,7 @@ Your game must follow the following rules:
 • With enough experience, the player can level up, upgrading its statistics.
 
 
+
 To give the users the feeling that you’re delivering a complete product you need to polish as much as possible
 your game.
 
@@ -37,6 +39,7 @@ your game.
 • Create a funny game where the player has at least one goal.
 
 • Create a game with a beginning and an end."
+
 
 
 How to play ?
