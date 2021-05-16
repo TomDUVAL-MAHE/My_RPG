@@ -33,6 +33,8 @@ your game.
 
 How to play ?
 
+For play you can do the command "make" to compile the program and run it with the command "./my_rpg". After that you can play by clicking on the "Play" button and choosing a save. Don't worry you can do save your game at any time by pressing the "esc" key and clicking on the "save" button with your mouse. Warning! Remember to save, because there is no automatic save.
+
     - Move with 'z'q's'd' keys
     - Attack with 'space' key
     - Talk with NPC with 'f' key
