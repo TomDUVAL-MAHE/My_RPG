@@ -1,0 +1,21 @@
+ARMOR1;Unreliable leather chestplate that protects against the cold;assets/items/armor1.png;10;0;1
+ARMOR2;Unreliable leather chestplate that protects against the cold;assets/items/armor2.png;20;0;1
+ARMOR3;Unreliable leather chestplate that protects against the cold;assets/items/armor3.png;40;0;1
+AXE;Unreliable leather chestplate that protects against the cold;assets/items/axe.png;0;0;3
+BOW1;Unreliable leather chestplate that protects against the cold;assets/items/bow1.png;0;10;4
+BOW2;Unreliable leather chestplate that protects against the cold;assets/items/bow2.png;0;20;4
+BOW3;Unreliable leather chestplate that protects against the cold;assets/items/bow3.png;0;40;4
+HAT1;Unreliable leather chestplate that protects against the cold;assets/items/hat1.png;5;0;5
+HAT2;Unreliable leather chestplate that protects against the cold;assets/items/hat2.png;10;0;5
+HAT3;Unreliable leather chestplate that protects against the cold;assets/items/hat3.png;20;0;5
+NECK1;Unreliable leather chestplate that protects against the cold;assets/items/ring1.png;10;0;16
+NECK2;Unreliable leather chestplate that protects against the cold;assets/items/ring2.png;0;10;16
+NECK3;Unreliable leather chestplate that protects against the cold;assets/items/ring3.png;5;5;16
+PICKAXE;Unreliable leather chestplate that protects against the cold;assets/items/pickaxe.png;0;0;7
+WEAPON1;Unreliable leather chestplate that protects against the cold;assets/items/weapon1.png;0;10;8
+WEAPON2;Unreliable leather chestplate that protects against the cold;assets/items/weapon2.png;0;20;8
+WEAPON3;Unreliable leather chestplate that protects against the cold;assets/items/weapon3.png;0;40;8
+SHOES1;Unreliable leather chestplate that protects against the cold;assets/items/shoes1.png;5;0;9
+SHOES2;Unreliable leather chestplate that protects against the cold;assets/items/shoes2.png;10;0;9
+SHOES3;Unreliable leather chestplate that protects against the cold;assets/items/shoes3.png;20;0;9
+NONE;NONE;empty.png;0;0;0
