@@ -39,3 +39,17 @@ How to play ?
     - Stop to talk with 'enter' key
     - Open inventory with 'e' key
     - Close inventory with 'e' key
+
+<img src="assets_read_me/Menu.png" width="600" />
+<img src="assets_read_me/History.png" width="600" />
+<img src="assets_read_me/1.png" width="600" />
+<img src="assets_read_me/inventory.png" width="600" />
+<img src="assets_read_me/skills.png" width="600" />
+<img src="assets_read_me/village.png" width="600" />
+<img src="assets_read_me/attack.png" width="600" />
+<img src="assets_read_me/inventory2.png" width="600" />
+<img src="assets_read_me/tree_cut.png" width="600" />
+<img src="assets_read_me/Fight2.png" width="600" />
+<img src="assets_read_me/fight3.png" width="600" />
+<img src="assets_read_me/fight4.png" width="600" />
+<img src="assets_read_me/inventory3.png" width="600" />
